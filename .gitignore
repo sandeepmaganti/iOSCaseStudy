@@ -32,9 +32,6 @@ DerivedData/
 
 build/
 
-# Xcode Project files. XcodeGen generates these.
-*.xcodeproj
-
 #####
 # Xcode private settings (window sizes, bookmarks, breakpoints, custom executables, smart groups)
 #
